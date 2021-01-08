@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DikSepta/react-todolist-app.git/static/css/main.d6f1dddd.chunk.css",
+    "main.js": "/DikSepta/react-todolist-app.git/static/js/main.a2f90dc1.chunk.js",
+    "main.js.map": "/DikSepta/react-todolist-app.git/static/js/main.a2f90dc1.chunk.js.map",
+    "runtime-main.js": "/DikSepta/react-todolist-app.git/static/js/runtime-main.bb81e2d0.js",
+    "runtime-main.js.map": "/DikSepta/react-todolist-app.git/static/js/runtime-main.bb81e2d0.js.map",
+    "static/js/2.54973fe2.chunk.js": "/DikSepta/react-todolist-app.git/static/js/2.54973fe2.chunk.js",
+    "static/js/2.54973fe2.chunk.js.map": "/DikSepta/react-todolist-app.git/static/js/2.54973fe2.chunk.js.map",
+    "static/js/3.0f041fee.chunk.js": "/DikSepta/react-todolist-app.git/static/js/3.0f041fee.chunk.js",
+    "static/js/3.0f041fee.chunk.js.map": "/DikSepta/react-todolist-app.git/static/js/3.0f041fee.chunk.js.map",
+    "index.html": "/DikSepta/react-todolist-app.git/index.html",
+    "static/css/main.d6f1dddd.chunk.css.map": "/DikSepta/react-todolist-app.git/static/css/main.d6f1dddd.chunk.css.map",
+    "static/js/2.54973fe2.chunk.js.LICENSE.txt": "/DikSepta/react-todolist-app.git/static/js/2.54973fe2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/DikSepta/react-todolist-app.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb81e2d0.js",
+    "static/js/2.54973fe2.chunk.js",
+    "static/css/main.d6f1dddd.chunk.css",
+    "static/js/main.a2f90dc1.chunk.js"
+  ]
+}
